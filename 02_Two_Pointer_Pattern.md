@@ -1,4 +1,4 @@
-# Two Pointers Technique – Complete Deep Dive (Lecture Notes)
+# Two Pointers Technique
 
 ## 1. Why Two Pointers Matter (Big Picture)
 
